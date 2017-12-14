@@ -1,4 +1,4 @@
-Analysis of Lawson Adventure Park's Twitter (plus some Instagram data analysis and a dashboard)
+#Analysis of Lawson Adventure Park's Twitter (plus some Instagram data analysis and a dashboard)
 
 The order of the Jupyter notebooks is as follows:
 
